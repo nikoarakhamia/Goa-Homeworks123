@@ -1,0 +1,37 @@
+div {
+    position: fixed;
+}
+
+
+
+div {
+    position: static;
+    padding: 400px;
+    margin: 400px;
+    
+
+}
+
+div {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    
+    
+}
+
+/* 3) შექმენი მეორე სექცია, სადაც ერთი ბლოკი იქნება position: static; ამ ბლოკს დაავალე გადანაცვლება ზედა და მარცხენა მიმართულებით */
+
+div {
+    position: static;
+    padding-top: 30%;
+}
+
+/* 4)აბსოლუტური პოზიციონირება:
+მესამე სექციაში დაამატე კონტენტი, რომელსაც მიანიჭებ position: absolute; და მიუთითე კონკრეტული წერტილი კონტენტის შიგნით. */
+
+div {
+    position: absolute;
+    padding: 50px;
+    margin: 50px;
+}

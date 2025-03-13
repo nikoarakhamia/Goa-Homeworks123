@@ -1,0 +1,21 @@
+div {
+    position: fixed;
+}
+
+
+
+div {
+    position: static;
+    padding: 400px;
+    margin: 400px;
+    
+
+}
+
+div {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    
+    
+}

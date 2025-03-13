@@ -1,0 +1,39 @@
+.h2 {
+    color: brown;
+    font-family: Arial; 
+    font-weight: 700;
+    font-size: 3em;
+    font-style: italic;
+}
+
+#p1 {
+    color: red;
+    font-family: cursive;
+    font-weight: 500;
+    font-size: 2em;
+    font-style: italic;
+}
+
+#p2 {
+    color: greenyellow;
+    font-family: cursive;
+    font-weight: 500;
+    font-size: 2em;
+    font-style: italic;
+}
+
+#p3 {
+    color: green;
+    font-family: cursive;
+    font-weight: 500;
+    font-size: 2em;
+    font-style: italic;
+}
+
+#aboutme {
+    color: blue;
+    font-family: cursive;
+    font-weight: 500;
+    font-size: 2em;
+    font-style: italic;
+}

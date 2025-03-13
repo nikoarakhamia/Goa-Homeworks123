@@ -1,0 +1,16 @@
+div {
+    padding: 0;
+    margin: 150px;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+
+.div-2 {
+    width: 350px;
+    height: 350px;
+    border: 3px solid yellow;
+    background-color: aqua;
+    color: brown;
+    font-size: 3em;
+    text-align: center;
+}
