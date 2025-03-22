@@ -1,0 +1,43 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+h1 {
+    height: 300px;
+    width: 300;
+    color: blueviolet;
+}
+
+p {
+    height: 200px;
+    width: 100px;
+    color: blueviolet;
+}
+
+h2 {
+    height: 350px;
+    width: 300px;
+    color: white;
+    background-color: blueviolet;
+}
+
+h3{
+    height: 200px;
+    width: 300px;
+    background-color: blueviolet;
+    color: white;
+    display: flex;
+  justify-content: flex-end;
+  }
+
+h4 {
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    color: white;
+    display: flex;
+    
+      
+}
