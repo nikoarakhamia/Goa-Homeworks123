@@ -1,0 +1,11 @@
+* {
+    width: 200px;
+    height: 40px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    background-color: rgb(12, 242, 12);
+}

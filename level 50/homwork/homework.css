@@ -1,0 +1,24 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+h1 {
+    width: 200px;
+    height: 100px;
+    color: blueviolet;
+}
+
+h3 {
+    width: 95px;
+    height: 100px;
+    background-color: blueviolet;
+}
+
+div {
+    width: 20px;
+    height: 20px;
+    color: blueviolet;
+}
+

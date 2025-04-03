@@ -1,0 +1,14 @@
+* {
+    max-height: 100%;
+    height: 0px;
+    box-sizing: border-box;
+}
+
+div {
+    max-width: 100%;
+    height: 200px;
+    color: brown;
+    flex: wrap;
+    justify-content: row;
+}
+
