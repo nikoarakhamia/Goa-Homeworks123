@@ -36,13 +36,13 @@ print(2 / 2)
 print(9 / 9)
 print(3 / 3)
 
-age = 19
+age = 20
 
-if age < 19:
-    print("you can take draving")
+if age > 19:
+    print("you cannot take draving")
 
 else:
-    print("you cannot take draving")
+    print("you can take draving")
 
 if 33 + 33 == 66:
     print("yes this is right question")
